@@ -1,6 +1,3 @@
-# gitbook
- In this repository, we will post guides on installing nodes for various projects.
- 
 <h1 align="center">Node Installation Guides by haciyatmaz :vulcan_salute:</h1>
 <p align="center">
 	<img height="200" height="auto" src="https://avatars.githubusercontent.com/u/35812219"></br>
